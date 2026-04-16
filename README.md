@@ -15,10 +15,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 I'm a passionate developer focusing on building robust backend systems and intuitive web applications.
-- 🔭 I’ve been working on several exciting projects including a **Bookstore E-commerce Platform**, a **Movie Ticket Booking System**, and a **Tutor Portal**.
+- 🔭 I’ve been working on several exciting projects including a **Bookstore E-commerce Platform** and a **Movie Ticket Booking System**.
 - 🌱 I’m currently honing my skills in software architecture, system design, and advanced TypeScript patterns.
 - 💬 Ask me about **JavaScript, TypeScript, Express.js, and Databases**.
-- 📫 How to reach me: You can contact me via your email or connect on LinkedIn (Add your links below!).
+- 📫 How to reach me: You can contact me via email at **[duykhoa1125@gmail.com](mailto:duykhoa1125@gmail.com)**.
 
 ---
 
@@ -103,11 +103,6 @@ A high-performance online ticket booking system modeling CGV/Lotte Cinema workfl
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-### 🏫 [**HCMUT Tutor Portal**](https://github.com/duykhoa1125/hcmut-tutor-portal)
-A dedicated portal connecting students with available tutors, optimizing the educational matchmaking process.
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
 
 ---
 
