@@ -6,12 +6,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggCGvnPTOUOghP/giphy.gif" width="400" alt="coding animation" />
-</div>
-
-<br/>
-
 ## 👨‍💻 About Me
 
 - 🎓 I'm a passionate developer focusing on building robust backend systems and intuitive web applications.
