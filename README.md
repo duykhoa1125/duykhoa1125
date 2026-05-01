@@ -8,9 +8,9 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **Third-year Computer Science student** at **Ho Chi Minh City University of Technology (HCMUT)**[cite: 1].
-- 💡 Specialized in **Backend and Fullstack development**, with a focus on building scalable, production-ready systems[cite: 1].
-- 🤖 Passionate about integrating **Generative AI** into practical applications to automate business workflows[cite: 2].
+- 🎓 **Third-year Computer Science student** at **Ho Chi Minh City University of Technology (HCMUT)**.
+- 💡 Specialized in **Backend and Fullstack development**, with a focus on building scalable, production-ready systems.
+- 🤖 Passionate about integrating **Generative AI** into practical applications to automate business workflows.
 - 📫 Reach me at: **[duykhoa1125@gmail.com](mailto:duykhoa1125@gmail.com)**.
 
 ---
@@ -47,24 +47,24 @@
 ## 📌 Highlighted Projects
 
 ### 🥤 [**Milk Tea Bot – AI-Powered Ordering System**](https://github.com/duykhoa1125/milk-tea-bot)
-**Role: Fullstack Developer** | *04/2026 – Present*[cite: 2]
-- Built a **Monorepo** system featuring a Telegram bot for natural language ordering using **Gemini AI function calling**[cite: 2].
-- Integrated **PayOS** for seamless payment link generation and automated webhook-based order confirmation[cite: 2].
-- Developed a **Next.js Kitchen Dashboard** with real-time updates for order management and history tracking[cite: 2].
-- Optimized session handling and cart management using **Redis (Upstash)** and **Prisma ORM**[cite: 2].
-- **Tech**: Node.js, Grammy, Next.js 16, Gemini AI, PostgreSQL, Redis, PayOS[cite: 2].
+**Role: Fullstack Developer** | *04/2026 – Present*
+- Built a **Monorepo** system featuring a Telegram bot for natural language ordering using **Gemini AI function calling**.
+- Integrated **PayOS** for seamless payment link generation and automated webhook-based order confirmation.
+- Developed a **Next.js Kitchen Dashboard** with real-time updates for order management and history tracking.
+- Optimized session handling and cart management using **Redis (Upstash)** and **Prisma ORM**.
+- **Tech**: Node.js, Grammy, Next.js 16, Gemini AI, PostgreSQL, Redis, PayOS.
 
 ### 🛒 [**BookStore – E-commerce Platform**](https://github.com/duykhoa1125/bookstore)
-**Role: Backend Developer** (Team of 4) | *10/2025 – 12/2025*[cite: 1]
-- Architected RESTful APIs with **JWT/OAuth 2.0** and centralized error handling[cite: 1].
-- Designed complex relational schemas for nested categories and order tracking[cite: 1].
-- **Tech**: TypeScript, Node.js, Express.js, Prisma, PostgreSQL, Neon[cite: 1].
+**Role: Backend Developer** (Team of 4) | *10/2025 – 12/2025*
+- Architected RESTful APIs with **JWT/OAuth 2.0** and centralized error handling.
+- Designed complex relational schemas for nested categories and order tracking.
+- **Tech**: TypeScript, Node.js, Express.js, Prisma, PostgreSQL, Neon.
 
 ### 🎟️ [**Movie Ticket Booking System**](https://github.com/duykhoa1125/ticket-booking-system)
-**Role: Frontend Developer & Database Designer** (Team of 5) | *10/2025 – 12/2025*[cite: 1]
-- Implemented **3NF database normalization**, stored procedures, and triggers for core business logic[cite: 1].
-- Built a multi-step booking flow using **Next.js** and **shadcn/ui**[cite: 1].
-- **Tech**: Next.js, Tailwind CSS, shadcn/ui, Node.js, MySQL[cite: 1].
+**Role: Frontend Developer & Database Designer** (Team of 5) | *10/2025 – 12/2025*
+- Implemented **3NF database normalization**, stored procedures, and triggers for core business logic.
+- Built a multi-step booking flow using **Next.js** and **shadcn/ui**.
+- **Tech**: Next.js, Tailwind CSS, shadcn/ui, Node.js, MySQL.
 
 ---
 
