@@ -67,7 +67,6 @@
 - **Tech**: Next.js, Tailwind CSS, shadcn/ui, Node.js, MySQL.
 
 ---
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=duykhoa1125&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
