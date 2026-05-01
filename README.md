@@ -67,24 +67,6 @@
 - **Tech**: Next.js, Tailwind CSS, shadcn/ui, Node.js, MySQL.
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/duykhoa1125">
-    <img src="https://github-readme-stats.vercel.app/api?username=duykhoa1125&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Duy Khoa's GitHub stats" width="48%" />
-  </a>
-  <a href="https://github.com/duykhoa1125">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=duykhoa1125&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=duykhoa1125&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
 ---
 
 <p align="center">
